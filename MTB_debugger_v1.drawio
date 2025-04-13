@@ -1,0 +1,54 @@
+<mxfile host="Electron" modified="2023-11-09T06:30:00.043Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.3 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="vafnuQWgYridy5jn_Yfq" version="22.0.3" type="device">
+  <diagram name="Page-1" id="Tl15D0BtIztd9aA16RnJ">
+    <mxGraphModel dx="989" dy="610" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KiOj5Tymp32ps-LyYlL7-17" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;&lt;br&gt;&lt;/blockquote&gt;" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;align=right;verticalAlign=bottom;textDirection=ltr;" vertex="1" parent="1">
+          <mxGeometry x="190" y="410" width="330" height="160" as="geometry" />
+        </mxCell>
+        <mxCell id="KiOj5Tymp32ps-LyYlL7-1" value="&lt;i&gt;Source code&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="210" y="500" width="290" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KiOj5Tymp32ps-LyYlL7-2" value="&lt;i&gt;MTB Debug&lt;/i&gt;&amp;nbsp;&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=center;verticalAlign=bottom;fillColor=#fff2cc;strokeColor=#d6b656;" vertex="1" parent="1">
+          <mxGeometry x="210" y="420" width="290" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KiOj5Tymp32ps-LyYlL7-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.862;entryY=1.05;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="KiOj5Tymp32ps-LyYlL7-3" target="KiOj5Tymp32ps-LyYlL7-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KiOj5Tymp32ps-LyYlL7-3" value="SPI" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="430" y="430" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KiOj5Tymp32ps-LyYlL7-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="KiOj5Tymp32ps-LyYlL7-4" target="KiOj5Tymp32ps-LyYlL7-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KiOj5Tymp32ps-LyYlL7-4" value="MTB" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KiOj5Tymp32ps-LyYlL7-14" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="KiOj5Tymp32ps-LyYlL7-5" target="KiOj5Tymp32ps-LyYlL7-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KiOj5Tymp32ps-LyYlL7-5" value="DMA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="330" y="430" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KiOj5Tymp32ps-LyYlL7-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;startArrow=classic;startFill=1;" edge="1" parent="1" source="KiOj5Tymp32ps-LyYlL7-10" target="KiOj5Tymp32ps-LyYlL7-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KiOj5Tymp32ps-LyYlL7-18" value="&lt;i style=&quot;font-size: 8px;&quot;&gt;USB&lt;/i&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=8;" vertex="1" connectable="0" parent="KiOj5Tymp32ps-LyYlL7-16">
+          <mxGeometry x="0.6907" relative="1" as="geometry">
+            <mxPoint x="18" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KiOj5Tymp32ps-LyYlL7-10" value="&lt;i&gt;ch341 interface&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="210" y="360" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KiOj5Tymp32ps-LyYlL7-11" value="&lt;i&gt;Host/PC&lt;/i&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
+          <mxGeometry x="210" y="300" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="KiOj5Tymp32ps-LyYlL7-19" value="&lt;i&gt;KL25Z&lt;/i&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="510" y="550" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
